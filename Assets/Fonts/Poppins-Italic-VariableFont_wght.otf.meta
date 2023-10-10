@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3b4ff9c5397bc7f4d9af7dd7bf5e13bd
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Poppins Devanagari
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 131a69c067f954b4d9b5c48c7e4c4e0d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
